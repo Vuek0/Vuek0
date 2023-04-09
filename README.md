@@ -6,13 +6,13 @@
 ### <div align="center">I'm Vueko, junior front-end developer</div>  
   
 
-- <div align="center">🌱 I’m currently learning js, react, scss</div>  
+ <div align="center">🌱 I’m currently learning js, react, scss</div>  
   
 
-- <ins><div align="center">❓ Ask me about anything in my telegram https://t.me/vuek0</div></ins>  
+<div align="center">❓ Ask me about anything in my telegram https://t.me/vuek0</div>
   
 
-- <div align="center">⚡ 15 years old</div>  
+<div align="center">⚡ 15 years old</div>
   
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 </td><td valign="top" width="33%">
 
-<img src="https://ahegao.b-cdn.net/wp-content/uploads/2023/02/oniichan-wa-oshimai-gender-bender-anime.gif" align="left" height="" width="300" />  
+<img src="https://ahegao.b-cdn.net/wp-content/uploads/2023/02/oniichan-wa-oshimai-gender-bender-anime.gif" height="" width="300" />  
 
 
 </td><td valign="top" width="33%">
