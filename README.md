@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vueko, junior front-end developer</div>  
+### <div align="center">I'm Vueko, junior front-end developer from Uzbekistan <img src=https://emojio.ru/images/apple-b/1f1fa-1f1ff.png width="25" height="25" /></div>  
   
 
  <div align="center">🌱 I’m currently learning js, react, scss</div>  
@@ -13,6 +13,8 @@
   
 
 <div align="center">⚡ 15 years old</div>
+
+
   
 
 <div align="center">
