@@ -59,6 +59,12 @@
 <a href="https://github.com/Vuek0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://t.me/vuek0">
+<img src=https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white />
+</a>
+<a href="https://discord.com/users/455702273507459073">
+<img src=https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white />
+</a>
 </div>  
   
 
