@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vueko, junior front-end developer from Uzbekistan <img src=https://emojio.ru/images/apple-b/1f1fa-1f1ff.png width="25" height="25" /></div>  
   
 
- <div align="center">🌱 I’m currently learning js, react</div>  
+ <div align="center">🌱 I’m currently learning js</div>  
   
 
 <div align="center">❓ Ask me about anything in my telegram https://t.me/vuek0</div>
