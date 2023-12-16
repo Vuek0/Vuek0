@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/07a102cd00faea0010cb0e330eaed5f3/a0769abb70528b6e-a1/s500x750/ae06de16bc68b3ae6a773390a4bc64c518a1f081.gif" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47gzvv5zfp85ri0jq7ipi3ch59u1fyb0twoacd51qm&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
@@ -18,7 +18,7 @@
   
 
 <div align="center">
-<img src="https://media.tenor.com/q2FIPEytHtMAAAAC/onimai-cute.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e4784z764cfcudgcs04ca5j9e6lbe8qyjj2rdqyv0wk&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
@@ -26,12 +26,12 @@
 
 
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr style="display: block;"><td valign="top" width="33%">
 
 
 
 ### Front-end  
-<div align="center">  
+<div>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="33%">
 
-<img src="https://ahegao.b-cdn.net/wp-content/uploads/2023/02/oniichan-wa-oshimai-gender-bender-anime.gif" height="" width="300" />  
+<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47nzeyl59wfcbn5o96obfdnmmmg10fvldurkf44om1&ep=v1_gifs_search&rid=200w.webp&ct=g" height="" width="300" />  
 
 
 </td><td valign="top" width="33%">
