@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vueko, junior front-end developer from Uzbekistan <img src=https://emojio.ru/images/apple-b/1f1fa-1f1ff.png width="25" height="25" /></div>  
+### <div align="center">I'm Vueko, intern front-end developer from Uzbekistan <img src=https://emojio.ru/images/apple-b/1f1fa-1f1ff.png width="25" height="25" /></div>  
   
 
  <div align="center">🌱 I’m currently learning js</div>  
@@ -64,9 +64,6 @@
 <a href="https://github.com/Vuek0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://t.me/vuek0">
-<img src=https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white />
-</a>
 <a href="https://discord.com/users/455702273507459073">
 <img src=https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white />
 </a>
