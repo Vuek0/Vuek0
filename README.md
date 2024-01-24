@@ -6,8 +6,6 @@
 ### <div align="center">I'm Vueko, intern front-end developer from Uzbekistan <img src="https://cdn-icons-png.flaticon.com/512/197/197416.png" width="25" height="25" /></div>  
   
 
- <div align="center">🌱 I’m currently learning js</div>  
-  
 
 <div align="center">❓ Ask me about anything in my instagram https://www.instagram.com/_vueko_/</div>
   
