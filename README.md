@@ -10,6 +10,18 @@
 <div align="center">❓ Ask me about anything in my instagram https://www.instagram.com/_vueko_/</div>
 <div align="center"> Also in a telegram: https://t.me/Vuek0 ❓</div>
 <br />
+<div align="center"> Links of some my projects: </div>
+<div align="center">
+  https://hackaton-itstep-2024.vercel.app
+  <br />
+  https://tokners-omega.vercel.app
+  <br />
+  https://vue-to-do-list-six.vercel.app/
+  <br />
+  https://generative-ai-chi.vercel.app/
+</div>
+  
+<br />
 
   
 
