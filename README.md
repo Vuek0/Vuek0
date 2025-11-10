@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Muhammad, web developer from Uzbekistan <img src="https://cdn-icons-png.flaticon.com/512/197/197416.png" width="25" height="25" /></div>  
+### <div align="center">I'm Muhammad, developer from Uzbekistan <img src="https://cdn-icons-png.flaticon.com/512/197/197416.png" width="25" height="25" /></div>  
   
 
 
