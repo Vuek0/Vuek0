@@ -7,11 +7,11 @@
   
   <!-- Hero Section with Gradient -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=7C3AED&center=true&vCenter=true&width=700&height=70&lines=Assalomu+Alaykum!+%F0%9F%91%8B;I%27m+Muxammad+Nuriaxmedov;Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9A%A1" alt="Hero Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Assalomu+Alaykum!+%F0%9F%91%8B;I%27m+Muxammad+Nuriaxmedov;Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9A%A1" alt="Hero Typing" />
   </h1>
 
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,00E5FF&height=200&section=header&text=Welcome%20to%20my%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=7C3AED" width="100%" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,7C3AED&height=200&section=header&text=Welcome%20to%20my%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" />
 </div>
 
 ---
@@ -47,9 +47,6 @@ developer:
     - AI Integration
     - Open Source
 ```
-
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -85,7 +82,7 @@ developer:
     <tr>
       <td>
         <b>🎨 Frontend</b><br/>
-        <img src="https://geps.dev/progress/95?color=7C3AED&label=JavaScript" alt="JavaScript" /><br/>
+        <img src="https://geps.dev/progress/95?color=FFFFFF&label=JavaScript" alt="JavaScript" /><br/>
         <img src="https://geps.dev/progress/90?color=61DAFB&label=React.js" alt="React" /><br/>
         <img src="https://geps.dev/progress/85?color=4FC08D&label=Vue.js" alt="Vue.js" /><br/>
         <img src="https://geps.dev/progress/90?color=3178C6&label=TypeScript" alt="TypeScript" />
@@ -94,16 +91,16 @@ developer:
         <b>⚙️ Backend</b><br/>
         <img src="https://geps.dev/progress/80?color=339933&label=Node.js" alt="Node.js" /><br/>
         <img src="https://geps.dev/progress/75?color=3776AB&label=Python" alt="Python" /><br/>
-        <img src="https://geps.dev/progress/70?color=000000&label=Express" alt="Express" /><br/>
-        <img src="https://geps.dev/progress/70?color=009688&label=FastAPI" alt="FastAPI" />
+        <img src="https://geps.dev/progress/80?color=000000&label=Express" alt="Express" /><br/>
+        <img src="https://geps.dev/progress/80?color=009688&label=FastAPI" alt="FastAPI" />
       </td>
     </tr>
     <tr>
       <td>
         <b>💾 Database</b><br/>
         <img src="https://geps.dev/progress/75?color=005C84&label=MySQL" alt="MySQL" /><br/>
-        <img src="https://geps.dev/progress/70?color=4EA94B&label=MongoDB" alt="MongoDB" /><br/>
-        <img src="https://geps.dev/progress/65?color=336791&label=PostgreSQL" alt="PostgreSQL" />
+        <img src="https://geps.dev/progress/75?color=4EA94B&label=MongoDB" alt="MongoDB" /><br/>
+        <img src="https://geps.dev/progress/80?color=336791&label=PostgreSQL" alt="PostgreSQL" />
       </td>
       <td>
         <b>🔧 Tools</b><br/>
@@ -117,42 +114,13 @@ developer:
 
 ---
 
-## 🏆 Hall of Fame
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github.githubassets.com/images/modules/profile/trophies/trophy-default.png" width="80" alt="Trophy" /><br/>
-        <b>🥈 ITEENS Hackathon 2024</b><br/>
-        <i>2nd Place - 48 Hour Challenge</i><br/>
-        <sub>Solo full-stack project</sub>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github.githubassets.com/images/modules/profile/trophies/trophy-default.png" width="80" alt="Certificate" /><br/>
-        <b>📜 Front-End Developer</b><br/>
-        <i>IT STEP Academy</i><br/>
-        <sub>2023 - 2024</sub>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github.githubassets.com/images/modules/profile/trophies/trophy-default.png" width="80" alt="Academy" /><br/>
-        <b>🎓 Junior Computer Academy</b><br/>
-        <i>IT STEP</i><br/>
-        <sub>5 Years Program</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
   
   ### Contribution Graph
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vuek0&theme=github-compact&color=7C3AED&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vuek0&theme=github-compact&color=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   
   <br/><br/>
   
@@ -167,7 +135,7 @@ developer:
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vuek0&theme=github-dark&hide_border=true&fire=7C3AED" alt="Streak Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vuek0&theme=github-dark&hide_border=true&fire=FFFFFF" alt="Streak Stats" width="100%" />
       </td>
     </tr>
   </table>
@@ -205,7 +173,7 @@ developer:
     <a href="https://discord.com/users/455702273507459073">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" />
     </a>
-    <a href="https://linkedin.com/in/vuek0">
+    <a href="https://www.linkedin.com/in/muhammad-nuriakhmedov-0464b3301/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
     </a>
   </p>
@@ -224,11 +192,10 @@ developer:
 
 ---
 
-## 🎯 What's Next?
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,00E5FF&height=100&section=footer&animation=twinkling&fontColor=7C3AED" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,7C3AED&height=100&section=footer&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Footer" />
   
   ### ⭐ Thanks for visiting my profile!
   
@@ -236,8 +203,8 @@ developer:
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Vuek0&label=Profile+Views&color=7C3AED&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Vuek0?label=Followers&style=for-the-badge&color=7C3AED&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Vuek0&label=Profile+Views&color=FFFFFF&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vuek0?label=Followers&style=for-the-badge&color=FFFFFF&logo=github" alt="Followers" />
 
 </div>
 
