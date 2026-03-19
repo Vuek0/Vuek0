@@ -76,44 +76,6 @@ developer:
 
   ---
 
-  ### 📊 Skill Matrix
-  
-  <table align="center">
-    <tr>
-      <td>
-        <b>🎨 Frontend</b><br/>
-        <img src="https://geps.dev/progress/95?color=FFFFFF&label=JavaScript" alt="JavaScript" /><br/>
-        <img src="https://geps.dev/progress/90?color=61DAFB&label=React.js" alt="React" /><br/>
-        <img src="https://geps.dev/progress/85?color=4FC08D&label=Vue.js" alt="Vue.js" /><br/>
-        <img src="https://geps.dev/progress/90?color=3178C6&label=TypeScript" alt="TypeScript" />
-      </td>
-      <td>
-        <b>⚙️ Backend</b><br/>
-        <img src="https://geps.dev/progress/80?color=339933&label=Node.js" alt="Node.js" /><br/>
-        <img src="https://geps.dev/progress/75?color=3776AB&label=Python" alt="Python" /><br/>
-        <img src="https://geps.dev/progress/80?color=000000&label=Express" alt="Express" /><br/>
-        <img src="https://geps.dev/progress/80?color=009688&label=FastAPI" alt="FastAPI" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>💾 Database</b><br/>
-        <img src="https://geps.dev/progress/75?color=005C84&label=MySQL" alt="MySQL" /><br/>
-        <img src="https://geps.dev/progress/75?color=4EA94B&label=MongoDB" alt="MongoDB" /><br/>
-        <img src="https://geps.dev/progress/80?color=336791&label=PostgreSQL" alt="PostgreSQL" />
-      </td>
-      <td>
-        <b>🔧 Tools</b><br/>
-        <img src="https://geps.dev/progress/90?color=F05032&label=Git" alt="Git" /><br/>
-        <img src="https://geps.dev/progress/85?color=2496ED&label=Docker" alt="Docker" /><br/>
-        <img src="https://geps.dev/progress/80?color=FCC624&label=Linux" alt="Linux" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
