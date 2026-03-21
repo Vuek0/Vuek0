@@ -6,12 +6,12 @@
 <div align="center">
   
   <!-- Hero Section with Gradient -->
-  <h1>
+  <!-- <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Assalomu+Alaykum!+%F0%9F%91%8B;I%27m+Muxammad+Nuriaxmedov;Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9A%A1" alt="Hero Typing" />
-  </h1>
+  </h1> -->
 
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,7C3AED&height=200&section=header&text=Welcome%20to%20my%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=200&section=header&text=Welcome%20to%20my%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" />
 </div>
 
 ---
@@ -121,7 +121,7 @@ developer:
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,7C3AED&height=100&section=footer&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=100&section=footer&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Footer" />
   
   ### ⭐ Thanks for visiting my profile!
   
