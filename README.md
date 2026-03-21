@@ -76,43 +76,7 @@ developer:
 
   ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-  
-  ### Contribution Graph
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vuek0&theme=github-compact&color=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  
-  <br/><br/>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Vuek0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vuek0&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vuek0&theme=github-dark&hide_border=true&fire=FFFFFF" alt="Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  ### Profile Summary Cards
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vuek0&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vuek0&theme=github_dark" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vuek0&theme=github_dark" alt="Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vuek0&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vuek0&theme=github_dark&utcOffset=5" alt="Productive Time" />
-
-</div>
 
 ---
 
