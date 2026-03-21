@@ -11,7 +11,7 @@
   </h1> -->
 
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=200&section=header&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=200&section=header&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" /> -->
 </div>
 
 
