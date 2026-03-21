@@ -96,9 +96,6 @@ developer:
     <a href="mailto:vueko.eruko@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
     </a>
-    <a href="https://discord.com/users/455702273507459073">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" />
-    </a>
     <a href="https://www.linkedin.com/in/muhammad-nuriakhmedov-0464b3301/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
     </a>
