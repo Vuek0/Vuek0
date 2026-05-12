@@ -1,138 +1,59 @@
-<!--
-  Welcome to my GitHub Profile! 
-  🚀 Built with passion from Tashkent, Uzbekistan
--->
+# Muhammad Nuriakhmedov
 
-<div align="center">
-  
-  <!-- Hero Section with Gradient -->
-  <!-- <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Assalomu+Alaykum!+%F0%9F%91%8B;I%27m+Muxammad+Nuriaxmedov;Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9A%A1" alt="Hero Typing" />
-  </h1> -->
+**Full-Stack Engineer & Technical Founder** — building production SaaS, real-time systems, and multi-tenant architectures from Tashkent, Uzbekistan.
 
-  <!-- Animated Banner -->
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=200&section=header&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Hero Banner" /> -->
-</div>
-
-
-## 🎨 Who Am I?
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="200" alt="Coding Animation" />
-      </td>
-      <td align="left" width="50%">
-        
-```yaml
-developer:
-  name: Muxammad Nuriaxmedov
-  location: Tashkent, Uzbekistan 🇺🇿
-  timezone: UTC+5
-  
-  contact:
-    email: vueko.eruko@gmail.com
-    telegram: @Vuek0
-    instagram: @_vueko_
-  
-  languages:
-    - Russian (Native)
-    - English (C1 - IELTS 7.0)
-  
-  focus:
-    - Frontend Engineering
-    - Full-Stack Development
-    - AI Integration
-    - Open Source
-```
-  </table>
-</div>
+I design and ship end-to-end products: backend architecture, infrastructure, native clients, and everything in between. Currently splitting time between two ventures — one I co-founded, one I run solo.
 
 ---
 
-## 🛠️ Tech Arsenal
+## What I'm building
 
-<div align="center">
-  
-  ### ⚡ Current Stack
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,python,fastapi" alt="Main Stack" />
-  </p>
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma" alt="Frontend Tools" />
-  </p>
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,nginx,linux" alt="Backend & Tools" />
-  </p>
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vercel" alt="IDEs & Platforms" />
-  </p>
+### 🍽️ [ORDR.uz](https://ordr.uz) — Co-Founder & CTO
+Multi-tenant QR-ordering SaaS for restaurants. Three production venues (PRAVDA, Loona, Gruzinka), 1,800+ live customer orders, 60+ tagged tables across four service categories. Real-time order pipeline on Socket.IO, application-layer tenant isolation, DB-level RU/UZ/EN localization.
 
-  ---
+Invited by United Ventures to present at their portfolio pitch session within ~2 months of first deployment.
 
+`NestJS 11` · `PostgreSQL` · `Prisma 6` · `Vue 3` · `Socket.IO 4` · `Docker` · `Nginx`
 
+### 🏗️ [AlmaCode](https://almacode.uz) — Founder & Software Engineer
+Multi-platform development studio. End-to-end products across web, mobile (iOS/Android), desktop, Telegram bots, and server infrastructure. Direct-line model — no PM layer between client and engineer.
+
+Selected work under AlmaCode:
+
+- **Yo'lreftrans Logistics** — production wagon-management platform for railway freight (UZ/KZ), managing 1,425 rail wagons across 50 employees and 5+ partner carriers. ETRAN railway-API integration syncing ~1,200 operations every 4 hours via 10-way parallel batches. Three native clients (Tauri 2 desktop, React Native mobile, Node API) sharing a single TypeScript types package.
+
+- **[Probnik.uz](https://probnik.uz)** — bilingual SaaS exam-prep platform covering Uzbekistan's national exam spec for 9th/11th graders. ~760 questions across 33 categories and 12 subjects. AI-graded long-form answers via Google Gemini 2.5 Flash (multimodal: photo + question → structured JSON feedback). Click/Payme subscription billing.
+
+### 🔧 [Convertify](https://convertify.uz) — Open Source
+Privacy-first file conversion tool. Zero-retention, processes ephemerally on Vercel serverless and deletes immediately after conversion. PNG/JPG/PDF/DOCX → PDF/PNG/JPEG/WebP/ICO/TIFF. Multilingual UI (RU/UZ/EN).
+
+`Python` · `Flask` · `Pillow` · `PyMuPDF` · [Repo →](https://github.com/Vuek0/Convertify)
 
 ---
 
-## 🌍 Connect & Collaborate
+## Stack I work with
 
-<div align="center">
-  
-  ### Let's Build Something Amazing Together! 🚀
-  
-  <p>
-    <a href="https://instagram.com/_vueko_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
-    </a>
-    <a href="https://t.me/Vuek0" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
-    </a>
-    <a href="mailto:vueko.eruko@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-nuriakhmedov-0464b3301/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-    </a>
-  </p>
-
-  ---
-
-  ### 📬 Quick Contact
-  
-  ```bash
-  curl -X POST https://vueko.eruko@gmail.com \
-    -H "Subject: Project Collaboration" \
-    -d "Let's build something amazing!"
-  ```
-
-</div>
+**Backend:** NestJS · Node.js · Express · Flask · Prisma · PostgreSQL · MongoDB · Socket.IO · REST APIs
+**Frontend:** Vue 3 · React · Next.js · Pinia · TanStack Query · Tailwind CSS
+**Mobile & Desktop:** React Native · Expo · Tauri 2 (Rust) · Capacitor · Electron
+**Infra:** Docker · Nginx · Linux · GitHub Actions · WireGuard
+**AI:** OpenAI API · Google Gemini · RAG pipelines · embeddings
+**Languages:** TypeScript · JavaScript · Python · C# · SQL
 
 ---
 
+## About me
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=105c82&height=100&section=footer&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Footer" />
-  
-  ### ⭐ Thanks for visiting my profile!
-  
-  <sub>Built with ❤️ from Tashkent, Uzbekistan</sub>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Vuek0&label=Profile+Views&color=FFFFFF&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Vuek0?label=Followers&style=for-the-badge&color=FFFFFF&logo=github" alt="Followers" />
+- 📍 Tashkent, Uzbekistan (UTC+5)
+- 🎓 Frontend Development Program — IT STEP Academy (2023–2024)
+- 🗣️ Russian (Native) · English (IELTS 7.0, 2025)
+- 💼 Open to founding engineer / senior full-stack roles in startups (remote-friendly)
 
-</div>
+---
 
-<!--
-  ✨ Crafted with passion and lots of coffee ☕
-  © 2026 Muxammad Nuriaxmedov. All rights reserved.
-  
-  🇺🇿 Made in Tashkent
--->
+## Reach me
+
+- ✉️ vueko.eruko@gmail.com
+- 💬 [Telegram @Vuek0](https://t.me/Vuek0)
+- 🔗 [LinkedIn](https://linkedin.com/in/muhammad-nuriakhmedov)
+- 🌐 [nuriakhmedov.dev](https://nuriakhmedov.dev)
