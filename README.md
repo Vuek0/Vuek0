@@ -22,8 +22,6 @@ Selected work under AlmaCode:
 
 - **Yo'lreftrans Logistics** — production wagon-management platform for railway freight (UZ/KZ), managing 1,425 rail wagons across 50 employees and 5+ partner carriers. ETRAN railway-API integration syncing ~1,200 operations every 4 hours via 10-way parallel batches. Three native clients (Tauri 2 desktop, React Native mobile, Node API) sharing a single TypeScript types package.
 
-- **[Probnik.uz](https://probnik.uz)** — bilingual SaaS exam-prep platform covering Uzbekistan's national exam spec for 9th/11th graders. ~760 questions across 33 categories and 12 subjects. AI-graded long-form answers via Google Gemini 2.5 Flash (multimodal: photo + question → structured JSON feedback). Click/Payme subscription billing.
-
 ### 🔧 [Convertify](https://convertify.uz) — Open Source
 Privacy-first file conversion tool. Zero-retention, processes ephemerally on Vercel serverless and deletes immediately after conversion. PNG/JPG/PDF/DOCX → PDF/PNG/JPEG/WebP/ICO/TIFF. Multilingual UI (RU/UZ/EN).
 
