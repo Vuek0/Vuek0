@@ -1,6 +1,6 @@
 # Muhammad Nuriakhmedov
 
-![Uploading cats-dancing-brazil-dance.gif…]()
+<img src="cats-dancing-brazil-dance.gif" alt="cats dancing" width="280" />
 
 
 ## About me
