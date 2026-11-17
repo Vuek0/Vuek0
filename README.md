@@ -6,6 +6,8 @@
 
 &emsp;&emsp;**about me**
 
+&emsp;&emsp;🥈 &nbsp;National Transport Hackaton winner &nbsp;<sub>`25.000.000 UZS`</sub>
+
 &emsp;&emsp;📍 &nbsp;Tashkent, Uzbekistan &nbsp;<sub>`UTC+5`</sub>
 
 &emsp;&emsp;🗣️ &nbsp;Russian &nbsp;<sub>`native`</sub>
