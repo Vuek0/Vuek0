@@ -4,15 +4,15 @@
 
 <br />
 
-**about me**
+&emsp;&emsp;**about me**
 
-📍 &nbsp;Tashkent, Uzbekistan &nbsp;<sub>`UTC+5`</sub>
+&emsp;&emsp;📍 &nbsp;Tashkent, Uzbekistan &nbsp;<sub>`UTC+5`</sub>
 
-🗣️ &nbsp;Russian &nbsp;<sub>`native`</sub>
+&emsp;&emsp;🗣️ &nbsp;Russian &nbsp;<sub>`native`</sub>
 
-🔤 &nbsp;English &nbsp;<sub>`IELTS 7.0`</sub>
+&emsp;&emsp;🔤 &nbsp;English &nbsp;<sub>`IELTS 7.0`</sub>
 
-<sub><i>← me after a successful deploy</i></sub>
+&emsp;&emsp;<sub><i>← me after a successful deploy</i></sub>
 
 <br clear="left" />
 <br />
