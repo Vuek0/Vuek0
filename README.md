@@ -3,9 +3,7 @@
 ## About me
 
 - 📍 Tashkent, Uzbekistan (UTC+5)
-- 🎓 Frontend Development Program — IT STEP Academy (2023–2024)
 - 🗣️ Russian (Native) · English (IELTS 7.0, 2025)
-- 💼 Open to founding engineer / senior full-stack roles in startups (remote-friendly)
 
 ---
 
