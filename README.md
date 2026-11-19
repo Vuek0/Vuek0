@@ -4,7 +4,7 @@
 
 <br />
 
-&emsp;&emsp;**about me**
+&emsp;&emsp;**meeee:**
 
 &emsp;&emsp;🥈 &nbsp;National Transport Hackaton winner &nbsp;<sub>`25.000.000 UZS`</sub>
 
