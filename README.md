@@ -6,7 +6,7 @@
 
 &emsp;&emsp;**meeee:**
 
-&emsp;&emsp;🥈 &nbsp;National Transport Hackaton winner &nbsp;<sub>`25.000.000 UZS`</sub>
+&emsp;&emsp;🥈 &nbsp;2nd place, National Transport Hackathon 2026 ([EasyPay](https://github.com/Vuek0/easypay), <br />⠀⠀⠀GPS-based bus fare payment)<sub>`25.000.000 UZS`</sub>
 
 &emsp;&emsp;📍 &nbsp;Tashkent, Uzbekistan &nbsp;<sub>`UTC+5`</sub>
 
